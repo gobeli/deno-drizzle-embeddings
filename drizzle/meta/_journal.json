@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1731658214958,
+      "tag": "0000_outgoing_yellowjacket",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1731659047575,
+      "tag": "0001_cards_index",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1731661883043,
+      "tag": "0002_clean_pyro",
+      "breakpoints": true
+    }
+  ]
+}

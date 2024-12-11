@@ -1,0 +1,1 @@
+CREATE INDEX embedding_idx ON `cards` (libsql_vector_idx(embedding, 'metric=cosine'))
